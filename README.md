@@ -89,4 +89,4 @@ Modul Programari
 
 ## Autor
 
-Student - grupa ______
+Cernopolc Adriana C-P-253-11
